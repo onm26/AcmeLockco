@@ -1,7 +1,7 @@
 # AcmeLockco
 Website Proposal
-This proposal is a full redesign and rebuild of the Acme Lock Company website. The current site is a dated template with limited customization. I believe it could use a modern web design look. The new website will be built from scratch using HTML5, CSS3, Bootstrap, and JavaScript, ensuring full control over design, layout, and functionality.
-The main purpose of this rebuild is to present Acme Lock Company as a premium and trusted locksmith service provider. The website will highlight its residential, commercial, automotive, and emergency locksmith services. The site will provide contact methods, service details, and designed with a mobile friendly approach for users searching on smartphones. The rebuild will start with an HTML5 boilerplate template, giving the site a well-structured foundation for adding responsive layouts, CSS styling and JavaScript capabilities. Using HTML5 and CSS3 with Bootstrap ensures that a website is mobile-first, accessible, and flexible across devices. This aligns with best practices in modern web development. Implementing these modern design principles, the website will enhance the company’s local SEO and make it easier for customers to engage, book services, and trust the brand.
+This proposal is a full redesign and rebuild of the Acme Lock Company website. The current site was built on the Thryv platform. It uses a dated template and offers limited customization options. I believe it could use a modern web design look. The new website will be built from scratch using HTML5, CSS3, Bootstrap, and JavaScript. This ensures full control over design, layout, and functionality.
+The purpose of this rebuild is to present Acme Lock Company as a premium and trusted locksmith service provider. The website will highlight its residential, commercial, automotive, and emergency locksmith services. The site will provide contact methods, service details, and designed with a mobile friendly approach for users searching on smartphones. The rebuild will start with an HTML5 boilerplate template, giving the site a well-structured foundation for adding responsive layouts, CSS styling and JavaScript capabilities. Using HTML5 and CSS3 with Bootstrap ensures that a website is mobile-first, accessible, and flexible across devices. This aligns with best practices in modern web development. 
 
 Target Audience
 Primary audience for the site includes:
@@ -20,7 +20,7 @@ The website will deliver the following functionality:
 Design Layout
 The website will follow a Swiss Style with a modern flat design approach that will improve user experience and visual appeal. This design style will make the website look highly professional while improving user experience on both desktop and mobile.
 Design details:
-•	Colors: White background with blue text, accents, and call-to-action buttons. 
+•	Colors: White background with light and dark blue text, accents, and call-to-action buttons. 
 •	Typography: Helvetica or sans-serif font.
 •	Flat design features will be solid-color buttons and icons. 
 •	Images: Professional service photos.
